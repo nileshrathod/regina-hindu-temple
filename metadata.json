@@ -1,0 +1,8 @@
+{
+  "name": "Regina Hindu Temple",
+  "description": "Official web portal for the Regina Hindu Temple (Hindu Samaj of Southern Saskatchewan) featuring darshan timings, festival & prasadam calendars, photo gallery, community services, contact directory, and full admin management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
